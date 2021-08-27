@@ -4,5 +4,8 @@ public class HelloWorld {
 
         int myFirstNumber = 10 + 5;
         System.out.println(myFirstNumber);
+
+        int mySecondNumber = 20;
+        System.out.println(mySecondNumber);
     }
 }
